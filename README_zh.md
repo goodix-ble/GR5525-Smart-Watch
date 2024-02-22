@@ -50,6 +50,9 @@ GR5525系列是汇顶科技推出的Bluetooth 5.3单模低功耗蓝牙系统级�
 
 - 可以通过下面方式观看参考设计的演示效果(更多界面) :
 
-  - 点击跳转到B站观看 : [Smart_Watch_Video](https://www.bilibili.com/video/BV1Re411X7P6/?share_source=copy_web&vd_source=253f7e2d634ff4f728c7e7bfa218f990)
-  -  使用手机扫描演示视频的二维码观看. 
+  - 点击跳转到B站观看 : [Smart_Watch_Video](https://www.bilibili.com/video/BV1pA4m137hW/?vd_source=849be8d36cdf256cbd8e61ecdc3316ea)
+  
+  - 使用手机扫描演示视频的二维码观看. 
+  
+    ![](./resource/GR5525_Lvgl831_Demo_QRCODE.png)  
 

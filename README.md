@@ -56,5 +56,8 @@ The Ref Project is located at [projects/peripheral/graphics/gr5525_smart_watch](
 
 - You can watch the Demo effect (More UI):
 
-  - Click the web link : [Smart_Watch_Video](https://www.bilibili.com/video/BV1Re411X7P6/?share_source=copy_web&vd_source=253f7e2d634ff4f728c7e7bfa218f990)
-  -  Scan the following QRCode to view the video. 
+  - Click the web link : [Smart_Watch_Video](https://www.bilibili.com/video/BV1pA4m137hW/?vd_source=849be8d36cdf256cbd8e61ecdc3316ea)
+  
+  - Scan the following QRCode to view the video. 
+  
+    ![](./resource/GR5525_Lvgl831_Demo_QRCODE.png) 

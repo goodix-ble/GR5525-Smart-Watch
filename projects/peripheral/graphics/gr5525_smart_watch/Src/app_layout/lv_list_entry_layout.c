@@ -43,23 +43,23 @@ static icon_item_t g_icon_items[ICON_COUNT] = {
     },
     {
         NULL,
-        &wd_img_app_06_events,
+        &wd_img_app_01_workout,
     },
     {
         NULL,
-        &wd_img_app_06_events,
+        &wd_img_app_02_activity,
     },
     {
         NULL,
-        &wd_img_app_06_events,
+        &wd_img_app_03_hr,
     },
     {
         NULL,
-        &wd_img_app_06_events,
+        &wd_img_app_04_stopwatch,
     },
     {
         NULL,
-        &wd_img_app_06_events,
+        &wd_img_app_05_spo2,
     },
     {
         NULL,
